@@ -23,7 +23,7 @@ Software developer with a focus on Artificial Intelligence, currently majoring i
 
 - **Programming Languages:** Python, Java, C++
 - **Web Development:** HTML, CSS, JavaScript, JSP, MySQL
-- **Tools:** Git, NetBeans, XAMPP, Apache
+- **Tools:** Git, NetBeans, XAMPP, Apache, Flask
 
 ## Focus Areas
 
