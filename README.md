@@ -40,3 +40,6 @@ Holds an **Associate's Degree** in Computer Information Systems with a concentra
 - **API Development** 🌐  
   Creating and enhancing APIs to improve application functionality and user experience.
 
+---
+
+📫 **Contact Me:** [kylesclippard@gmail.com](mailto:kylesclippard@gmail.com)
