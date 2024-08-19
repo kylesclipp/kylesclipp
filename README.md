@@ -39,7 +39,3 @@ Holds an **Associate's Degree** in Computer Information Systems with a concentra
 
 - **API Development** 🌐  
   Creating and enhancing APIs to improve application functionality and user experience.
-
----
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kylesclippard@gmail.com)
