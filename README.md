@@ -1,4 +1,4 @@
-# Kyle Clippard | AI & Software Engineering 💻
+# Kyle Clippard | AI & Software Engineering Major💻
 
 **Software Developer** focused on Artificial Intelligence, currently majoring in AI at Oakland University.  
 Holds an **Associate's Degree** in Computer Information Systems with a concentration in Software Engineering.
