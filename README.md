@@ -17,7 +17,7 @@ Holds an **Associate’s Degree** in Computer Information Systems – Software E
 - **Embedded Hardware & Engineering Tools:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-  ![FPGA](https://img.shields.io/badge/-FPGA%20(Basys--3)-0A0A0A?style=flat-square)
+  ![FPGA](https://img.shields.io/badge/-FPGA%20-0A0A0A?style=flat-square)
   ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers%20(ESP32%2C%20STM32%2C%20AVR)-2E8B57?style=flat-square)
   ![Power Electronics](https://img.shields.io/badge/-DC--DC%20Converters-FF8C00?style=flat-square)
   ![Battery Testing](https://img.shields.io/badge/-Li--ion%20Testing%20(Maccor)-4682B4?style=flat-square)
