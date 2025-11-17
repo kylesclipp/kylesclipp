@@ -5,7 +5,7 @@ Holds an **Associate’s Degree** in Computer Information Systems – Software E
 
 ---
 
-## Skills & Expertise 🔧
+## Skills & Expertise 
 
 - **Programming Languages:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
