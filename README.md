@@ -1,6 +1,6 @@
 # Kyle Clippard | Electrical & Computer Engineering Student 
 
-**ECE/CE Student** with a strong focus on **Embedded Systems, Robotics, and FPGA/VLSI Design** at Oakland University.  
+**EE/CE Student** with a strong focus on **Embedded Systems, Robotics, and FPGA/VLSI Design** at Oakland University.  
 Holds an **Associate’s Degree** in Computer Information Systems – Software Engineering.
 
 ---
