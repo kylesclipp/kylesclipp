@@ -1,41 +1,47 @@
-# Kyle Clippard | AI & Software Engineering Major💻
+# Kyle Clippard | Electrical & Computer Engineering Student ⚡🤖
 
-**Software Developer** focused on Artificial Intelligence and Backend Development, currently majoring in AI at Oakland University.  
-Holds an **Associate's Degree** in Computer Information Systems with a concentration in Software Engineering.
+**ECE/CE Student** with a strong focus on **Embedded Systems, Robotics, and FPGA/VLSI Design** at Oakland University.  
+Holds an **Associate’s Degree** in Computer Information Systems – Software Engineering.
 
 ---
 
 ## Skills & Expertise 🔧
 
 - **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![Verilog](https://img.shields.io/badge/-Verilog-8A2BE2?style=flat-square)
 
-- **Web Development:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **Embedded Hardware & Engineering Tools:**  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+  ![FPGA](https://img.shields.io/badge/-FPGA-0A0A0A?style=flat-square)
+  ![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-1E90FF?style=flat-square)
+  ![Multimeter](https://img.shields.io/badge/-Multimeter-FFA500?style=flat-square)
+  ![PCB Design](https://img.shields.io/badge/-PCB%20Design-006400?style=flat-square)
+  ![Soldering](https://img.shields.io/badge/-Soldering-8B4513?style=flat-square)
 
 - **Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-  ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) 
-  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-  ![NumPy](https://img.shields.io/badge/-NumPy-013B57?style=flat-square&logo=numpy&logoColor=white) 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Vivado](https://img.shields.io/badge/-Vivado-007ACC?style=flat-square&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
   ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
 ## Focus Areas 🎯
 
-- **AI Model Development & Machine Learning** 🤖  
-  Exploring advanced algorithms and building intelligent systems.
+- **FPGA & Digital Logic Design** 🔌  
+  Building custom ALUs, fixed-point arithmetic systems, and hardware modules on the Basys-3.
 
-- **Backend Systems & Database Integration** 🛠️  
-  Designing robust backends and integrating with databases for seamless data management.
+- **Embedded Systems & Robotics** 🤖  
+  Working on motor control, sensors, servo systems, and microcontroller-driven robotics projects.
 
-- **API Development** 🌐  
-  Creating and enhancing APIs to improve application functionality and user experience.
+- **Battery Systems & Power Electronics** 🔋  
+  Experience with Li-ion cell testing (Maccor), BMS fundamentals, and DC-DC converters.
+
+- **Software + Hardware Integration** 🧩  
+  Creating systems that link code, electronics, and real-world devices.
