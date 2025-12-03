@@ -24,18 +24,3 @@ Holds an **Associate’s Degree** in Computer Information Systems – Software E
   ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
   ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
-
-## Focus Areas 
-
-- **FPGA & Digital Logic Design** 
-  Building custom ALUs, fixed-point arithmetic systems, and hardware modules on the Basys-3.
-
-- **Embedded Systems & Robotics** 
-  Working on motor control, sensors, servo systems, and microcontroller-driven robotics projects.
-
-- **Battery Systems & Power Electronics** 
-  Experience with Li-ion cell testing (Maccor), BMS fundamentals, and DC-DC converters.
-
-- **Software + Hardware Integration** 
-  Creating systems that link code, electronics, and real-world devices.
