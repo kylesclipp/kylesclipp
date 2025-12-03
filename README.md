@@ -21,7 +21,6 @@ Holds an **Associate’s Degree** in Computer Information Systems – Software E
 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Vivado](https://img.shields.io/badge/-Vivado-007ACC?style=flat-square&logoColor=white)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
   ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
